@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{9b936f82-0a43-4874-a7f1-bacaabd83779}</ProjectGuid>
-    <RootNamespace>Zestaw6</RootNamespace>
+    <ProjectGuid>{a37f2b82-eaa1-400a-a407-89b12ac40d91}</ProjectGuid>
+    <RootNamespace>Zadanie6</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
