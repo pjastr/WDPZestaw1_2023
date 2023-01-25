@@ -5,8 +5,10 @@ int f(int n);
 
 int main()
 {
-    int n = 7;
-    cout << "f(" << n << ") = " << f(n) << endl;
+    cout << f(0) << endl;;
+    cout << f(1) << endl;;
+    cout << f(2) << endl;;
+    cout << f(3) << endl;;
     return 0;
 }
 

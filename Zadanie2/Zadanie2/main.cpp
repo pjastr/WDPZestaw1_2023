@@ -25,4 +25,5 @@ int main()
     }
     cout << "Suma liczb parzystych: " << evenSum << endl;
     cout << "Suma liczb nieparzystych: " << oddSum << endl;
+    return 0;
 }
